@@ -20,11 +20,11 @@ Throughout the duration of the massage, the pressure level can change due to the
 # Milestone 2 Force Sensing Resistor (FSR) Code
 This code builds on Milestone 1 V1 Code. We took the FSR measurements from the NICU nurse and attempted to mimic the measurements using the robot arm. The code displays the positions that we found most accurately followed the NICU nurse's FSR measurements. 
 
-# Milestone 2 Boditrak Code
+# Milestone 2 BodiTrak Code
 This code builds on Milestone 1 V2 Code. The changed made are the following:
 
 **Updated positions for the three different levels of applied pressure**:
-The Boditrak pressure mat was used for the pressure measurements. The positions are a product of our attempts to mimic the pressure measurements gathered from a team member's attempt at performing an abdominal massage at three different pressure levels. 
+The BodiTrak pressure mat was used for the pressure measurements. The positions are a product of our attempts to mimic the pressure measurements gathered from a team member's attempt at performing an abdominal massage at three different pressure levels. 
 
 **Deletion of consideration of length of NICU stay**:
 After speaking to one of the NICU nurses, she expressed that length of NICU stay is not considered when determining the initial pressure of the abdominal massage. Therefore, we have removed it from the code.
