@@ -1,7 +1,10 @@
-# Milestone-A-Code
-This repository contains files for version 1 (V1) and version 2 (V2) of the Python code for Milestone A.
+# Gut-Motility-Stimulator-Code
+This repository contains files for Milestone A/1 and B/2.
 
 The code utilizes ccourson's Hiwonder-xArm1S Github repository (https://github.com/ccourson/Hiwonder-xArm1S/tree/main/Python).
+
+# Milestone-A-Code
+This repository contains files for version 1 (V1) and version 2 (V2) of the Python code for Milestone A.
 
 # V1 Code
 The V1 code utilizes the servo positions recorded from the HiWonder xArm PC program and translate those positions into a Python script. This is a simple script that executes one cycle of the "bermuda triangle" pattern neonatal intensive care unit nurses perform during neonatal abdominal massages. 
